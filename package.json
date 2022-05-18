@@ -1,0 +1,27 @@
+{
+  "name": "w8d1hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenRinger/W8D1HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenRinger/W8D1HW/issues"
+  },
+  "homepage": "https://github.com/BenRinger/W8D1HW#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
+}
